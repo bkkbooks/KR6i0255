@@ -1,0 +1,230 @@
+canonical_identifier: bkk:krp/KR6i0255/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0255/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 達摩多羅禪經
+  identifiers:
+    krp: KR6i0255
+    cbeta: T15n0618
+    cbeta_old_id: T15n0618
+    authorityid: CA0000527
+    json_key: T0618
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0618.xml
+    old_id: T15n0618
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0255_000-T.yaml, hash: 'sha256:ecd83f9064662a35f1d524109ed86df2410be84c9bae1107054b451333d8f3c4'}
+  - {seq: 1, filename: KR6i0255_001-T.yaml, hash: 'sha256:2c5bc12921b709919e84bddad1b8bdd1906375b74aca3c47b081e065d02f610b'}
+  - {seq: 2, filename: KR6i0255_002-T.yaml, hash: 'sha256:6d63f9a5ea4a012052a1d3ca67377868693972f2aa451eab3c65134c189b5d3e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0255_000-T.markers.yaml, hash: 'sha256:9dbd067d16086dca1e7a846bc062a55fe24bcc835dab465767e62075187baf97'}
+  - {seq: 1, role: markers, filename: assets/KR6i0255_001-T.markers.yaml, hash: 'sha256:a03868d285ea2e0541da9a24520ef423de5017b40f6dd2c3e314d5c7c17c3818'}
+  - {seq: 2, role: markers, filename: assets/KR6i0255_002-T.markers.yaml, hash: 'sha256:dab592d9a255bfdc0e36826eb8afb3397f4a50ca629b27bdf8af2ae95c9c4034'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0255_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12379
+  label: 達摩多羅禪經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0255_T_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0255_T_001-mulu-2
+    span:
+    - body
+    - 1012
+    - 1012
+  label: 1 修行方便道安那般那念退分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0255_T_001-mulu-3
+    span:
+    - body
+    - 1998
+    - 1998
+  label: 2 修行勝道退分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0255_T_001-mulu-4
+    span:
+    - body
+    - 2965
+    - 2965
+  label: 3 修行方便道安般念住分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0255_T_001-mulu-5
+    span:
+    - body
+    - 3108
+    - 3108
+  label: 4 修行勝道住分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0255_T_001-mulu-6
+    span:
+    - body
+    - 4586
+    - 4586
+  label: 5 修行方便道升進分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0255_T_001-mulu-7
+    span:
+    - body
+    - 6664
+    - 6664
+  label: 6 修行勝道升進分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0255_T_001-mulu-8
+    span:
+    - body
+    - 7688
+    - 7688
+  label: 7 修行方便道安般念決定分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0255_T_001-mulu-9
+    span:
+    - body
+    - 9117
+    - 9117
+  label: 8 修行方便勝道決定分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0255_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 13107
+  label: 達摩多羅禪經卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0255_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 9 修行方便道不淨觀退分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0255_T_002-mulu-2
+    span:
+    - body
+    - 719
+    - 719
+  label: 10 修行方便不淨觀住分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0255_T_002-mulu-3
+    span:
+    - body
+    - 929
+    - 929
+  label: 11 修行方便道不淨觀升進分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0255_T_002-mulu-4
+    span:
+    - body
+    - 2179
+    - 2179
+  label: 12 修行方便道不淨決定分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0255_T_002-mulu-5
+    span:
+    - body
+    - 2813
+    - 2813
+  label: 13 修行觀界
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0255_T_002-mulu-6
+    span:
+    - body
+    - 4543
+    - 4543
+  label: 14 修行四無量三昧
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0255_T_002-mulu-7
+    span:
+    - body
+    - 5748
+    - 5748
+  label: 15 修行觀陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0255_T_002-mulu-8
+    span:
+    - body
+    - 7527
+    - 7527
+  label: 16 修行觀入
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0255_T_002-mulu-9
+    span:
+    - body
+    - 9207
+    - 9207
+  label: 17 修行觀十二因緣
+  type: mulu
+  level: 1
+hash: sha256:a45d46ca0719ba9d5c4a132d7ffae45a4adf4bc4da905e841f828bc45d45b3ea
